@@ -1,6 +1,6 @@
 /**
  * =================================================================================
- * BLEM'S PIZZARIA - PAINEL ADMINISTRADOR ZERO-CLASSES (admin.js)
+ * BLEM'S PIZZERIA - PAINEL ADMINISTRADOR ZERO-CLASSES (admin.js)
  * =================================================================================
  * Este script gerencia o modal de Administração e visualização do banco BlemsDB:
  * - Leitura e listagem da tabela de pedidos ('orders') salvos no LocalStorage
